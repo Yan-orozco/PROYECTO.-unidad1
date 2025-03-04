@@ -1,0 +1,25 @@
+body {
+    color: black;
+    text-align: center;
+    background-color: #00BFFF; 
+}
+
+
+.titulo {
+    color:black:
+    center;
+    font-size: 70px;
+    border: 10px solid ;
+    color: rgba(128, 0, 128, 1);
+
+}
+.enlaces {
+    text-align: center;
+}
+
+.enlaces a {
+    display: block;       
+    color: black;  
+    text-decoration: none;
+   
+}

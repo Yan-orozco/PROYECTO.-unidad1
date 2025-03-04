@@ -1,0 +1,58 @@
+body {
+    background-image: url('monta.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    color: #F5F5DC; 
+}
+
+.titulo {
+    color: #4A2C00; 
+    background-color: #FFD166; 
+    text-align: center;
+    padding: 15px;
+    border: 4px dotted #8B4513; 
+}
+
+.texto {
+    text-align: center;
+    color: #FFD166; 
+}
+
+.imagen {
+    display: block;
+    margin: 15px auto;
+    width: 40%;
+    border: 6px dotted #4A2C00;
+    border-radius: 8px;
+}
+
+.boton {
+    display: block;
+    text-align: center;
+    color: #F5F5DC/
+    background-color: #8B4513; 
+    padding: 12px;
+    width: 180px;
+    margin: 25px auto;
+    text-decoration: none;
+    border: 3px dotted #FFD166; 
+}
+
+.boton {
+    background-color: #A0522D; 
+}
+
+.caja {
+    padding: 20px;
+    color: #F5F5DC; 
+    width: 85%;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 20px;
+    background-color: rgba(139, 69, 19, 0.9);
+}
+
+a {
+    color: #FFD166; 
+}

@@ -1,0 +1,29 @@
+body {
+    background-image: url('capiguatefondouno.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:antiquewhite
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+    border: 10px solid white;
+    padding: 10px;
+    background-color:brown
+}
+
+.imagen {
+        display: block;
+
+    margin: 10px auto;
+}
+
+.boton {
+        display: block;
+
+        width: 150px;
+
+    margin: 20px auto;
+   color: white;
+}

@@ -1,0 +1,61 @@
+body {
+    background-image: url('fuegos.jpg');
+        background-attachment: fixed;
+        background-size: cover;
+
+    background-position: center;
+
+    color: #FAF3E0; 
+}
+
+.titulo {
+    color: #8B0000;
+    background-color: #FFD700; 
+    text-align: center;
+    border-style: solid;
+    border-color: #B8860B; 
+}
+
+.texto {
+    text-align: center;
+    color: #FFD700;
+}
+
+.imagen {
+    display: block;
+        margin: 15px auto;
+
+    width: 35%;
+    border: 5px solid #8B0000;
+    
+}
+
+.boton {
+    display: block;
+    text-align: center;
+    color: #FAF3E0; 
+    background-color: #8B0000; 
+    padding: 12px;
+    width: 170px;
+    margin: 25px auto;
+text-decoration: none;
+    border: 2px solid #FFD700; 
+
+}
+
+
+.caja {
+    padding: 20px;
+    color: #FAF3E0;
+    width: 85%;
+    text-align: center;
+    margin: 15px auto;
+    font-size: 20px;
+    background-color: rgba(139, 0, 0, 0.85); 
+    border-radius: 12px;
+    border: 3px solid #FFD700
+}
+a {
+    color: #FFD700; 
+}
+

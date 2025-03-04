@@ -1,0 +1,35 @@
+body {
+    background-image: url('fondobordado.jpeg');
+    background-size: cover;
+    font-size: 25px;
+    color: navajowhite;
+
+
+}
+.titulo {
+    color: yellow;
+    background-color: whitesmoke;
+    text-align: center;
+    border: thick solid black; 
+}
+
+
+}
+
+.texto {
+    text-align: center;
+    color: navajowhite;
+
+}
+
+.imagen {
+    display: block;
+    margin: 10px auto;
+    width: 30%; }
+
+.boton {
+    display: block;
+    text-align: center;
+    color: papayawhip; 
+
+}
